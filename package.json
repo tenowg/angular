@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/angular.git"
+    "url": "https://github.com/tenowg/angular.git"
   },
   "scripts": {
     "preinstall": "node tools/npm/check-node-modules --purge",
